@@ -1,5 +1,7 @@
 # The-sine-wave-experiment
 Just trying to learn something about sine wave and JavaScript.
+
+
 To run the page.
 left-click and highlight the index file.
 right-click index file the to open the context menu.
